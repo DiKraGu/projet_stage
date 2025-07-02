@@ -1,0 +1,19 @@
+# === LARAVEL ===
+/back/vendor/
+/back/node_modules/
+/back/storage/*.key
+/back/.env
+/back/.idea/
+back/public/storage
+back/storage/app/public
+back/bootstrap/cache/*.php
+
+# === REACT ===
+/front/node_modules/
+/front/build/
+/front/.env
+
+# === SYSTEM ===
+.DS_Store
+*.log
+.env
